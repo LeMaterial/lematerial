@@ -1,4 +1,4 @@
-# Lematerial
+# LeMaterial
 
 LeMaterial is an open-source collaborative project led by [Entalpic](https://entalpic.ai) and [Hugging Face](https://huggingface.co/huggingface), designed to simplify and accelerate materials research for scientists and ML practitioners.
 
